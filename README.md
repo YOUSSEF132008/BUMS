@@ -15,7 +15,7 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Bums.git
+ git clone https://github.com/YOUSSEF132008/BUMS.git
    ```
    ```bash
    cd BUMS
