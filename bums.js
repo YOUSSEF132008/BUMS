@@ -939,7 +939,7 @@ class Bums {
   }
 
   async main() {
-    console.log(colors.yellow("Script Updated and Translated by (https://t.me/D4rkCipherX)"));
+    console.log(colors.yellow("Script Updated and Translated by (https://t.me/kingelnet) 🤩"));
 
     const dataFile = path.join(__dirname, "data.txt");
     if (!fs.existsSync(dataFile)) {
