@@ -18,7 +18,7 @@ pkg install git
    git clone https://github.com/Not-D4rkCipherX/Bums.git
    ```
    ```bash
-   cd Bums
+   cd BUMS
    ```
 
 2. **Instal Requirements:**
